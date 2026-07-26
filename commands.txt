@@ -1,0 +1,9 @@
+python -m venv venv(# to create a venv)
+.\venv\Scripts\Activate.ps1(# Yo activate)
+python -m pip install -r requirements.txt
+python -m streamlit run app.py
+#Docker commands
+docker stop mbti-knn-container
+docker rm mbti-knn-container
+docker build -t mbti-knn-app .
+docker run -d -p 8501:8501 --name mbti-knn-container mbti-knn-app

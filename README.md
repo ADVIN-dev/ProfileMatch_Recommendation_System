@@ -237,7 +237,6 @@ ProfileMatch-Intelligent-User-Recommendation-System/
 │── requirements.txt
 │── commands.txt
 │── README.md
-│── Project_Report.docx
 │── LICENSE
 ```
 

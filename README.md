@@ -1,5 +1,15 @@
 # 👥 ProfileMatch: Intelligent User Recommendation System
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red?logo=streamlit)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)
+![NLP](https://img.shields.io/badge/NLP-TF--IDF-success)
+![KNN](https://img.shields.io/badge/KNN-Recommendation%20Engine-blueviolet)
+![Recommendation System](https://img.shields.io/badge/Recommendation-System-8A2BE2)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 An intelligent user recommendation system that leverages **Machine Learning**, **Natural Language Processing (NLP)**, and **Personality Compatibility** to generate personalized user recommendations. 
 The application combines **TF-IDF Vectorization**, **K-Nearest Neighbors (KNN)**, and **MBTI Compatibility Analysis** to identify users with similar profiles through an interactive **Streamlit** web application.
 
